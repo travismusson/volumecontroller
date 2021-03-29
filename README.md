@@ -17,3 +17,4 @@ Plans:
 Requirements:
 - NirCmd
 - AutoHotkey
+- Place volume_alpha into NirCmd folder

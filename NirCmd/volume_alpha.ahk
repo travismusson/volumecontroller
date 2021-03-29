@@ -13,7 +13,7 @@
 
 vol_amount = 0.1	;change this value to desired amount of volume to be changed, only use positive values
 
-toggleGame = False	;defaults the audio, false = multi media, true = fullscreen application
+toggleGame = True	;defaults the audio, false = multi media, true = fullscreen application
 
 
 ;__________________________
@@ -35,7 +35,7 @@ Return
 ;Hotkeys for altering audio
 
 ^!WheelDown:: ;ctrl + alt + scroll wheel down
-    If (toggleGame = True){ ;changes current focused fullscreen window
+    If (%toggleGame% = True){ ;changes current focused fullscreen window
         Run, nircmd.exe changeappvolume focused -%vol_amount%
         
         Return
@@ -48,7 +48,7 @@ Return
     }
 
 ^!WheelUp:: ;ctrl + alt + scroll wheel up
-    If (toggleGame = True){ ;changes current focused fullscreen window
+    If (%toggleGame% = True){ ;changes current focused fullscreen window
         Run, nircmd.exe changeappvolume focused %vol_amount%
         Return
     }Else{  ;changes multimedia by default

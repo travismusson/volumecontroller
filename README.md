@@ -2,7 +2,7 @@
 
 This application uses 3rd party software named, NirCmd to control aplications volume
 
-*Place Volume_Alpha into NirCmd Folder and run it
+*Place Volume_Alpha into NirCmd Folder and run it*
 
 *Currently in Alpha*
 

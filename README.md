@@ -2,6 +2,8 @@
 
 This application uses 3rd party software named, NirCmd to control aplications volume
 
+*Place Volume_Alpha into NirCmd Folder and run it
+
 *Currently in Alpha*
 
 Features: 
@@ -17,4 +19,4 @@ Plans:
 Requirements:
 - NirCmd
 - AutoHotkey
-- Place volume_alpha into NirCmd folder and run it
+

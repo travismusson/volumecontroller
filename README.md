@@ -1,6 +1,6 @@
 # volumecontroller
 
-This application uses 3rd party software named, NirCmd to control aplications volume
+This application uses 3rd party software named; NirCmd to control applications volume and switch between changing game audio
 
 *Place Volume_Alpha into NirCmd Folder and run it*
 
@@ -14,6 +14,7 @@ Features:
 How to use:
 - Numpad "/" toggles the changing of game audio of a game that is fullscreen (i recommend putting this on before launching an application that is fullscreen)
 - Numpad "*" toggles  the changing of multimedia audio (only currently spotify desktop app and discord desktop app)
+- Use Ctrl+Alt+MouseWheel up/down to controll the volume respectivley
 
 Plans:
 - Add a gui

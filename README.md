@@ -8,7 +8,7 @@ This application uses 3rd party software named; NirCmd, to control applications 
 
 Features: 
 - Change current fullscreen application/game audio levels
-- Change current specified audio application found by their name, in this case it is used to controll discord audio, and spotify audio at the same speed
+- Change current specified audio application found by their name, in this case it is used to control discord audio, and spotify audio at the same speed
 - Customisable Volume amount and Hotkeys
 
 

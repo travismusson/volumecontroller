@@ -11,6 +11,10 @@ Features:
 - Change current specified audio application found by their name, in this case it is used to controll discord audio, and spotify audio at the same speed
 - Customisable Volume amount and Hotkeys
 
+How to use:
+- Numpad "/" toggles the changing of game audio (i recommend putting this on before launching)
+- Numpad "*" toggles  the changing of multimedia audio (only currently spotify desktop app and discord desktop app)
+
 Plans:
 - Add a gui
 - simplify it

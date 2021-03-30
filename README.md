@@ -1,6 +1,6 @@
 # volumecontroller
 
-This application uses 3rd party software named; NirCmd, to control applications volume and switch between changing game audio
+This application uses 3rd party software named; NirCmd, to control applications volume and switch between changing game audio and multimedia audio
 
 *Place Volume_Alpha into NirCmd Folder and run it*
 

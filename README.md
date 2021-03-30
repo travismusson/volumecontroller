@@ -12,7 +12,7 @@ Features:
 - Customisable Volume amount and Hotkeys
 
 How to use:
-- Numpad "/" toggles the changing of game audio (i recommend putting this on before launching)
+- Numpad "/" toggles the changing of game audio of a game that is fullscreen (i recommend putting this on before launching an application that is fullscreen)
 - Numpad "*" toggles  the changing of multimedia audio (only currently spotify desktop app and discord desktop app)
 
 Plans:
